@@ -1,4 +1,4 @@
-# How to install NVM :
+# How to install NVM On ubuntu :
 
 https://tecadmin.net/how-to-install-nvm-on-ubuntu-20-04/
 
